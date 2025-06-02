@@ -1,7 +1,7 @@
 
 # Welcome to its-vishnu-nitp's GitHub Repository
 
-Hi there! 👋  
+## Hi there! 👋  
 I'm Vishnu, a passionate developer and student at NIT Patna, deeply interested in software development, competitive programming, Data Science.  
 Here you'll find my projects, open-source contributions, and experiments with modern technologies.
 
