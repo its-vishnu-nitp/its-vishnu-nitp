@@ -1,4 +1,4 @@
-
+ 
 # Welcome to its-vishnu-nitp's GitHub Repository
 
 ## Hi there! 👋  
@@ -34,7 +34,11 @@ Data Structures & Algorithms (DSA), Competitive Programming
 **Email:** vishnuvishwakarma6387@gmail.com  
 **LinkedIn:** [Vishnu Kumar](https://www.linkedin.com/in/vishnu-kumar-nitp018/)  
 **Instagram:** [its_vishnu_018](https://www.instagram.com/its_vishnu_018/)  
-📄 **Resume**: [View My Resume](./2246018_Vishnu_Kumar_CSE_DS.pdf)
+**Codeforces handle:** [Vishnu_nitp](https://codeforces.com/profile/Vishnu_nitp)  
+**CodeChef handle:** [ensign_terror](https://www.codechef.com/users/ensign_terror)  
+**LeetCode handle:** [Vishnuk_nitp](https://leetcode.com/u/Vishnuk_nitp/)  
+📄 **Resume:** [View My Resume](./2246018_Vishnu_Kumar_CSE_DS.pdf)
+
 ---
 ## 🤝 Contributing
 
