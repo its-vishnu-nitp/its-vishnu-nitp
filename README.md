@@ -9,7 +9,7 @@ Here you'll find my projects, open-source contributions, and experiments with mo
 
 ## 🌟 Projects
 
-### working on it.
+### Go to repository tab...
 
 ---
 
